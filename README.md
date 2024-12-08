@@ -28,4 +28,4 @@ These are for the 2025 season, but I collected all the data since the 1955-56 se
 
 [MVP winners by year](https://www.basketball-reference.com/awards/mvp.html)
 
-[Team records]([https://www.basketball-reference.com/leagues/NBA_2024_standings.html](https://www.basketball-reference.com/leagues/NBA_2025_standings.html))
+[Team records]([https://www.basketball-reference.com/leagues/NBA_2024_standings.html](https://www.basketball-reference.com/leagues/NBA_2025_standings.html)
